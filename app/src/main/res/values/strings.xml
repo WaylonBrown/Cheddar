@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cheddar</string>
+    <string name="take_pic">Take pic</string>
+    <string name="flip_cam">Flip cam</string>
+
+    <string name="permissions_title">Permissions needed</string>
+    <string name="permissions_message">You need to accept permissions to have access to the camera and voice features.</string>
+</resources>
